@@ -1,8 +1,6 @@
 # Table of contents
 
 * [Welcome!](README.md)
-* [Mission Statement](vex-advanced-wisdom-project-vaw.md)
-* [Contributing Guidelines](contributing-guidelines.md)
 
 ## Hardware
 
@@ -31,7 +29,7 @@
   * [Kalman Filter](software/control-algorithms/kalman-filter.md)
   * [Bang Bang](software/control-algorithms/bang-bang.md)
   * [PID Controller](software/control-algorithms/pid-controller.md)
-  * [Take Back Half \(TBH\) Controller](software/control-algorithms/take-back-half-tbh-controller.md)
+  * [Take Back Half (TBH) Controller](software/control-algorithms/take-back-half-tbh-controller.md)
 * [Object Recognition](software/object-recognition/README.md)
   * [Red Green Buoy](software/object-recognition/red-green-buoy.md)
   * [AMS](software/object-recognition/ams.md)
@@ -40,7 +38,7 @@
 * [VEX Programming Software](software/vex-programming-software/README.md)
   * [PROS](software/vex-programming-software/pros/README.md)
     * [OkapiLib](software/vex-programming-software/pros/okapilib.md)
-  * [Robot Mesh Studio \(RMS\)](software/vex-programming-software/robot-mesh-studios.md)
+  * [Robot Mesh Studio (RMS)](software/vex-programming-software/robot-mesh-studios.md)
   * [EasyC](software/vex-programming-software/easyc.md)
   * [RobotC](software/vex-programming-software/robotc.md)
   * [VEXcode](software/vex-programming-software/vex-coding-studio-vcs.md)
@@ -79,7 +77,7 @@
     * [Gyroscope](electronics/vex/vex-sensors/gyroscope.md)
     * [Bumper Switch](electronics/vex/vex-sensors/bumper.md)
     * [Accelerometer](electronics/vex/vex-sensors/accelerometer.md)
-    * [V5 Inertial Sensor \(IMU\)](electronics/vex/vex-sensors/imu.md)
+    * [V5 Inertial Sensor (IMU)](electronics/vex/vex-sensors/imu.md)
   * [V5 Brain Wiring Guide](electronics/vex/wiring-guide.md)
   * [Legacy](electronics/vex/legacy/README.md)
     * [VEX Cortex](electronics/vex/legacy/vex-cortex.md)
@@ -98,7 +96,7 @@
     * [ODROID-XU4](electronics/general/external-boards/odroid-xu.md)
     * [Pandaboard](electronics/general/external-boards/pandaboard.md)
     * [Raspberry Pi](electronics/general/external-boards/raspberry-pi.md)
-  * [Analog-Digital Converter \(ADC\)](electronics/general/analog-digital-converter.md)
+  * [Analog-Digital Converter (ADC)](electronics/general/analog-digital-converter.md)
   * [Bit-Bang](electronics/general/bitbang.md)
   * [GPIO](electronics/general/gpio.md)
   * [I2C](electronics/general/i2c.md)
@@ -108,11 +106,10 @@
   * [Output Drive](electronics/general/output-drive.md)
   * [Power Consumption](electronics/general/power-consumption.md)
   * [Radius Array](electronics/general/radius-array.md)
-  * [Resettable Fuse \(PTC\)](electronics/general/resettable-fuse-ptc.md)
+  * [Resettable Fuse (PTC)](electronics/general/resettable-fuse-ptc.md)
   * [SPI](electronics/general/spi.md)
   * [Slew Rate](electronics/general/slew-rate.md)
   * [Stalling](electronics/general/stalling.md)
   * [USART](electronics/general/usart.md)
   * [UART](electronics/general/uart.md)
   * [5 Volt Tolerant](electronics/general/5-volt-tolerant.md)
-
